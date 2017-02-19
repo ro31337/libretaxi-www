@@ -68,12 +68,12 @@ p.paragraph {
 .nav-link2,
 .nav-link {
   text-decoration: none;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 30px;
   color: inherit;
 }
 .nav-link:not(:first-of-type) {
-  margin-left: 20px;
+  margin-left: 15px;
 }
 .text-center {
   text-align: center;
