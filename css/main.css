@@ -68,7 +68,6 @@ p.paragraph {
 .nav-link2,
 .nav-link {
   text-decoration: none;
-  font-size: 14px;
   line-height: 30px;
   color: inherit;
 }
@@ -368,4 +367,8 @@ p.paragraph {
 .legal {
 	padding-top: 20px;
 	font-size: 12px;
+}
+.langs {
+	margin-bottom: 30px;
+	text-align: justify;
 }
