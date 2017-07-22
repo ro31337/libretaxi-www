@@ -372,3 +372,6 @@ p.paragraph {
 	margin-bottom: 30px;
 	text-align: justify;
 }
+.footer a {
+	color: white;
+}
