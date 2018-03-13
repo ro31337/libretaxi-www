@@ -418,7 +418,8 @@ p.paragraph {
 	background-color: #f9f9f9;
 	min-width: 160px;
 	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-	z-index: 1;
+	z-index: 1000;
+	
 }
 
 .dropdown-content a {
@@ -428,12 +429,30 @@ p.paragraph {
 	text-decoration: none;
 	display: block;
 	text-align: left;
+
+
 }
 
 .dropdown-content a:hover {
 	background-color: #ddd;
+
 }
 
 .dropdown:hover .dropdown-content {
 	display: block;
+
+}
+
+.social-button {
+	float:center;
+
+}
+
+.social-button .fa {
+	padding: 20px;
+	font-size: 30px;
+	width: 30px;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 50%;
 }
